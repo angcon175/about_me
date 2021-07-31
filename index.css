@@ -214,8 +214,10 @@ canvas.particles-js-canvas-el{
 }
 @media (max-width: 500px) and (min-width: 300px){
   .hero_section{
-    margin: 135px 0px;
+    margin: 130px 0px;
+    margin-left: 20px;
     height: 60vh;
+    text-align: center;
   }
   .hero_section .row h1{
     font-size: 30px;
@@ -248,16 +250,16 @@ canvas.particles-js-canvas-el{
   .hero_section .btn_container button{
     width: 100px;
     height: 43px;
-    font-size: 15px;
-    text-align: center;
+    font-size: 10px;
+
     margin-top: 20px;
   }
 
   .hero_section .row img{
-    width: 50%;
+    width: 60%;
     margin: 20px;
     margin-bottom: 140px;
-    margin-left: 100px;
+    margin-left: 55px;
   }
 }
 
