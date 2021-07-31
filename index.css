@@ -216,7 +216,7 @@ canvas.particles-js-canvas-el{
   .hero_section{
     margin: 130px 0px;
     margin-left: 20px;
-    height: 90vh;
+    height: 120vh;
     text-align: center;
   }
   .hero_section .row h1{
@@ -271,7 +271,7 @@ canvas.particles-js-canvas-el{
 }
 .about_us #heading{
   font-weight: 600;
-  font-size: 40px;
+  font-size: 30px;
   letter-spacing: 0.5px;
   line-height: 57px;
 }
