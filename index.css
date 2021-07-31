@@ -250,7 +250,7 @@ canvas.particles-js-canvas-el{
   .hero_section .btn_container button{
     width: 100px;
     height: 43px;
-    font-size: 10px;
+    font-size: 15px;
 
     margin-top: 20px;
   }
@@ -382,4 +382,8 @@ canvas.particles-js-canvas-el{
 .skill_right .each_skills .progress-bar{
   background: var(--pink-color);
   color: transparent;
+}
+.skills #heading{
+  font-weight: 600;
+  font-size: 40px;
 }
