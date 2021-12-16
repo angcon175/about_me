@@ -138,6 +138,7 @@ canvas.particles-js-canvas-el{
   overflow: hidden;
   background-color: blue;
   position: center;
+  border: white;
 }
 
 @media (max-width: 1200px) and (min-width: 993px){
